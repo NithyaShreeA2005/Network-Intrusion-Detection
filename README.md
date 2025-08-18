@@ -18,19 +18,8 @@ This project detects suspicious activities and potential attacks in a network by
 
 📈 Visual representation of detection results⚙️ Installation & Setup
 
-1. Clone this repository:
+---
 
-git clone https://github.com/NithyaShreeA2005/Network-Intrusion-Detection.git
-
-
-2. Install dependencies:
-
-pip install -r requirements.txt
-
-
-3. Run the system:
-
-python intrusion_detection.py
 📊 Dataset
 
 The project uses the [KDD Cup 99 / NSL-KDD dataset] (or your dataset name).
